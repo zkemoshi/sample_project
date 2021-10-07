@@ -1,0 +1,5 @@
+{
+  "mongoURI":"mongodb://zkemoshi:Kiswahili1@zcapps-shard-00-00.xxbvp.mongodb.net:27017,zcapps-shard-00-01.xxbvp.mongodb.net:27017,zcapps-shard-00-02.xxbvp.mongodb.net:27017/property_app?ssl=true&replicaSet=atlas-yxpgzj-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret":"secret",
+  "SENDGRID_API_KEY":"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"
+}
